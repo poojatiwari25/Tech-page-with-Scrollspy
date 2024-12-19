@@ -1,1 +1,1 @@
-# Tech-page-with-Scrollspy-
+# Tech-page-with-Scrollspy

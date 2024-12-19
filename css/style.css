@@ -1,0 +1,47 @@
+*{
+	font-size: 14px;
+}
+.single-courses {
+    text-align: center;
+    border: 1px solid #eeeeee;
+    padding: 25px 15px;
+    border-radius: 5px;
+    box-shadow: 1px 1px grey;
+    margin-top: 100px;
+}
+a.nav-link.text-secondary {
+    margin-left: 50px;
+     font-size: 16px;
+    text-transform: uppercase;
+}
+a{
+	color: black;
+}
+input[type=text], select, textarea {
+  width: 90%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+input[type=submit] {
+  background-color: #04AA6D;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  cursor: pointer;
+}
+.single-footer ul.list li {
+    margin-top: 20px;
+}
+ul.footer-contact-info li {
+    margin-top: 13px;
+}
+a.dropdown-item {
+    display: block;
+    margin-top: 20px;
+}
+.single-footer {
+    margin-top: 80px;
+    margin-left: 20px;
+}
